@@ -14,4 +14,4 @@ In principle, the "vector-type" decomposition can be computed in QU space direcl
 
 ## Prerequisites
 
-Python 3 with `numpy`, `matplotlib`, and `healpy`.
+Python 3 with `numpy`, `matplotlib`, and `healpy`. Some of the code is based on [`ssht`](https://astro-informatics.github.io/ssht/).
