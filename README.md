@@ -10,8 +10,8 @@ In principle, the "vector-type" decomposition can be computed in QU space direcl
 ## Code
 
 `eb_functions.py` contains helper functions for performing E/B decomposition and generating the real-space E and B kernels.
-`eb_functions_examples.ipynb` is a Jupyter containing some examples.
+`eb_functions_examples.ipynb` is a Jupyter notebook containing some examples computing and using the real-space kernels.
 
 ## Prerequisites
 
-Python 3 with `numpy`, `matplotlib`, and `healpy`. Some of the code is based on [`ssht`](https://astro-informatics.github.io/ssht/).
+The main function uses Python 3 with `numpy`, `matplotlib`, and `healpy`. The real-space kernels are computed additionally using [`ssht`](https://astro-informatics.github.io/ssht/).
